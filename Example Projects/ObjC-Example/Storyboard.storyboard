@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES" initialViewController="Gb7-DM-9kh">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES" initialViewController="Gb7-DM-9kh">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13527"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
         <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -189,7 +189,6 @@
                                             </subviews>
                                             <constraints>
                                                 <constraint firstItem="Va3-Dg-CO7" firstAttribute="leading" secondItem="g0L-K0-CRv" secondAttribute="leadingMargin" constant="12" id="Lik-k1-T1l"/>
-                                                <constraint firstItem="Va3-Dg-CO7" firstAttribute="centerX" secondItem="g0L-K0-CRv" secondAttribute="centerX" id="OqL-Hb-2GU"/>
                                                 <constraint firstAttribute="centerY" secondItem="Va3-Dg-CO7" secondAttribute="centerY" id="QoC-5D-Pxz"/>
                                                 <constraint firstAttribute="trailingMargin" secondItem="Va3-Dg-CO7" secondAttribute="trailing" constant="11" id="oCD-Md-Dyd"/>
                                             </constraints>
@@ -307,7 +306,7 @@
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="J7N-Vk-He4">
-                                                    <rect key="frame" x="70" y="7" width="179" height="30"/>
+                                                    <rect key="frame" x="70.5" y="7" width="179" height="30"/>
                                                     <state key="normal" title="Multiple String Picker Test">
                                                         <color key="titleShadowColor" red="0.5" green="0.5" blue="0.5" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                     </state>
